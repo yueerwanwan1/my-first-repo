@@ -6,6 +6,6 @@ some git practice.
 I have following python skills:
 
 -list 
--loops
 -re
+- numpy
  
