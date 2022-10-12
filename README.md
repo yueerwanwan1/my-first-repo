@@ -1,2 +1,3 @@
 # my-first-repo
- some practice files
+ this is a repo
+ 
